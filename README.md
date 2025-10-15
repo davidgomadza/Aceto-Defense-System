@@ -180,3 +180,104 @@ Observation: ===FILE: /app/frontend/src/App.js
 45|
 
 ===END
+
+yarn add v1.22.22
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+success Saved 79 new dependencies.
+info Direct dependencies
+├─ @craco/craco@7.1.0
+├─ @react-three/drei@10.7.6
+├─ @react-three/fiber@9.4.0
+├─ class-variance-authority@0.7.1
+├─ clsx@2.1.1
+├─ framer-motion@12.23.24
+├─ lucide-react@0.545.0
+├─ sonner@2.0.7
+├─ tailwind-merge@3.3.1
+└─ three@0.180.0
+info All dependencies
+├─ @craco/craco@7.1.0
+├─ @cspotcode/source-map-support@0.8.1
+├─ @dimforge/rapier3d-compat@0.12.0
+├─ @mediapipe/tasks-vision@0.10.17
+├─ @monogrid/gainmap-js@3.1.0
+├─ @react-three/drei@10.7.6
+├─ @react-three/fiber@9.4.0
+├─ @tsconfig/node10@1.0.11
+├─ @tsconfig/node12@1.0.11
+├─ @tsconfig/node14@1.0.3
+├─ @tsconfig/node16@1.0.4
+├─ @tweenjs/tween.js@23.1.3
+├─ @types/draco3d@1.4.10
+├─ @types/offscreencanvas@2019.7.3
+├─ @types/react-reconciler@0.32.2
+├─ @types/stats.js@0.17.4
+├─ @types/three@0.180.0
+├─ @use-gesture/core@10.3.1
+├─ @use-gesture/react@10.3.1
+├─ @webgpu/types@0.1.66
+├─ acorn-walk@8.3.4
+├─ base64-js@1.5.1
+├─ baseline-browser-mapping@2.8.16
+├─ bidi-js@1.0.3
+├─ buffer@6.0.3
+├─ camera-controls@3.1.0
+├─ class-variance-authority@0.7.1
+├─ clone-deep@4.0.1
+├─ clsx@2.1.1
+├─ cosmiconfig-typescript-loader@1.0.9
+├─ create-require@1.1.1
+├─ cross-env@7.0.3
+├─ detect-gpu@5.0.70
+├─ diff@4.0.2
+├─ draco3d@1.5.7
+├─ fflate@0.6.10
+├─ flat@5.0.2
+├─ framer-motion@12.23.24
+├─ glsl-noise@0.0.0
+├─ hls.js@1.6.13
+├─ ieee754@1.2.1
+├─ immediate@3.0.6
+├─ is-plain-object@2.0.4
+├─ is-promise@2.2.2
+├─ isobject@3.0.1
+├─ its-fine@2.0.0
+├─ lie@3.3.0
+├─ lucide-react@0.545.0
+├─ maath@0.10.8
+├─ make-error@1.3.6
+├─ meshline@3.3.1
+├─ meshoptimizer@0.22.0
+├─ motion-dom@12.23.23
+├─ potpack@1.0.2
+├─ promise-worker-transferable@1.0.4
+├─ react-reconciler@0.31.0
+├─ react-use-measure@2.1.7
+├─ shallow-clone@3.0.1
+├─ sonner@2.0.7
+├─ stats-gl@2.4.2
+├─ stats.js@0.17.0
+├─ tailwind-merge@3.3.1
+├─ three-mesh-bvh@0.8.3
+├─ three-stdlib@2.36.0
+├─ three@0.180.0
+├─ troika-three-text@0.52.4
+├─ troika-three-utils@0.52.4
+├─ troika-worker-utils@0.52.0
+├─ ts-node@10.9.2
+├─ tunnel-rat@0.1.2
+├─ use-sync-external-store@1.6.0
+├─ utility-types@3.11.0
+├─ v8-compile-cache-lib@3.0.1
+├─ webgl-constants@1.1.1
+├─ webgl-sdf-generator@1.1.1
+├─ webpack-merge@5.10.0
+├─ wildcard@2.0.1
+├─ yn@3.1.1
+└─ zustand@5.0.8
+Done in 46.11s.
+
