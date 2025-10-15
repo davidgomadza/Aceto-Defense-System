@@ -1,0 +1,1 @@
+cd /app/frontend && yarn add @react-three/fiber @react-three/drei three framer-motion lucide-react class-variance-authority clsx tailwind-merge sonner
